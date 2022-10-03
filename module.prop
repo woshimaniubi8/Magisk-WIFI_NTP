@@ -1,0 +1,6 @@
+id=nettime
+name=(Android 7.1+)去除Wifi的感叹号或叉号
+version=v114514
+versionCode=1
+author=爱喝蓝屏钙的BAT @ bilibili.com
+description=设置检测204服务器为 connect.rom.miui.com/generate_204 设置ntp服务器为 ntp1.aliyun.com
